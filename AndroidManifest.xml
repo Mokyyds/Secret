@@ -24,6 +24,8 @@
         </activity>
         <activity android:name="com.jikexueyuan.seacret.atys.AtyLogin"/>
         <activity android:name="com.jikexueyuan.seacret.atys.AtyTimeLine"/>
+        <activity android:name="com.jikexueyuan.seacret.atys.AtyMessage"/>
+        <activity android:name="com.jikexueyuan.seacret.atys.AtyPubMessage"/>
     </application>
 
 </manifest>
